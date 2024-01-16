@@ -4,4 +4,4 @@ Erros mais comuns em Python
 
 """
 
-print("Geek University")
+print("Geek Unsiversity")

@@ -23,4 +23,4 @@ idade = int(input("Informe sua idade: "))
 # Saída de dados
 # print("{0} tem {1} anos de idade".format(nome, idade))
 print(f'{nome} tem {idade} anos de idade.')
-print(f'{nome} nasceu em {2021 - idade}')
+print(f'{nome} nasceu em {2024 - idade}')
